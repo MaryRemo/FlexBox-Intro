@@ -14,7 +14,11 @@
       width: 200px;
   }
 
-  .animal { 
-     display: flex;
+  .animal {
+      display: flex;
+  }
 
-}
+  .doggos {
+      display: flex;
+      flex-grow: inherit;
+  }
